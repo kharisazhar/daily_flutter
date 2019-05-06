@@ -1,16 +1,20 @@
-# flutter_animate_container
+# DAY 03
+101 Day Challenge Flutter
+#101dayflutter #onedayoneapk
 
-A new Flutter application.
+# Animated Container
+Simple example statefull widget to animate 
+This recipe describes how to use an AnimatedContainer to animate the size, background color, and border radius when the user taps a button.
 
-## Getting Started
+## Reference
 
-This project is a starting point for a Flutter application.
+* [Animate the properties of a Container](https://flutter.dev/docs/cookbook/animation/animated-container)
 
-A few resources to get you started if this is your first Flutter project:
+## Output
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/30395764/57201245-8c507d80-6fc0-11e9-85c1-3de8f27283d5.png" width="300" height="600">
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/30395764/57207152-904ac280-6ff5-11e9-831e-cee09795779b.gif" width="300" height="600">
+
+
+### Follow My Github and Star this repository
