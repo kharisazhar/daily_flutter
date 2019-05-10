@@ -9,7 +9,7 @@ class EmailListTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.all(12.0),
+      padding: EdgeInsets.only(bottom: 0.0, right: 12.0, left: 12.0),
       child: Row(
         children: <Widget>[
           Container(

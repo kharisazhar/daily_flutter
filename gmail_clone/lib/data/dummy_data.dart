@@ -9,8 +9,29 @@ List<EmailItem> emails = <EmailItem>[
     favorite: false
   ),
   EmailItem(
-    avatar: "KA",
-    title: "New Flutter App",
+    avatar: "SH",
+    title: "Hello Kharis",
+    description: "Just some quick Thoughts...",
+    date: DateTime.now(),
+    favorite: false
+  ),
+  EmailItem(
+    avatar: "DM",
+    title: "Flutter Challenge",
+    description: "Just some quick Thoughts...",
+    date: DateTime.now(),
+    favorite: false
+  ),
+  EmailItem(
+    avatar: "HA",
+    title: "Hello Kharis",
+    description: "Just some quick Thoughts...",
+    date: DateTime.now(),
+    favorite: false
+  ),
+  EmailItem(
+    avatar: "OP",
+    title: "Hello Kharis",
     description: "Just some quick Thoughts...",
     date: DateTime.now(),
     favorite: false
@@ -24,6 +45,41 @@ List<EmailItem> emails = <EmailItem>[
   ),
   EmailItem(
     avatar: "KA",
+    title: "Hello Kharis",
+    description: "Just some quick Thoughts...",
+    date: DateTime.now(),
+    favorite: false
+  ),
+  EmailItem(
+    avatar: "KA",
+    title: "New Flutter App",
+    description: "Just some quick Thoughts...",
+    date: DateTime.now(),
+    favorite: false
+  ),
+   EmailItem(
+    avatar: "OP",
+    title: "New Flutter App",
+    description: "Just some quick Thoughts...",
+    date: DateTime.now(),
+    favorite: false
+  ),
+   EmailItem(
+    avatar: "OP",
+    title: "New Flutter App",
+    description: "Just some quick Thoughts...",
+    date: DateTime.now(),
+    favorite: false
+  ),
+   EmailItem(
+    avatar: "OP",
+    title: "New Flutter App",
+    description: "Just some quick Thoughts...",
+    date: DateTime.now(),
+    favorite: false
+  ),
+   EmailItem(
+    avatar: "OP",
     title: "New Flutter App",
     description: "Just some quick Thoughts...",
     date: DateTime.now(),
