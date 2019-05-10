@@ -1,16 +1,23 @@
-# gmail_clone
+# DAY 06
+101 Day Challenge Flutter
+#101dayflutter #onedayoneapk
 
-A new Flutter project.
+# Gmail Clone
+Gmail Clone using flutter
 
-## Getting Started
+## Reference
 
-This project is a starting point for a Flutter application.
+* [Gmail Clone - Rody Davis](https://www.youtube.com/watch?v=RWInOp5My3g) - Thanks brother nice tutorial
 
-A few resources to get you started if this is your first Flutter project:
+## Output
+# Phone Device
+<img src="https://user-images.githubusercontent.com/30395764/57516420-e3e34600-733e-11e9-84ac-e3b55b1bbc5a.png" width="300">
+<img src="https://user-images.githubusercontent.com/30395764/57516418-e3e34600-733e-11e9-824a-50d8f69e627a.png" width="300">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Responsive in Tablet
+<img src="https://user-images.githubusercontent.com/30395764/57516417-e34aaf80-733e-11e9-9e8d-ecc9babeb1b5.png" width="500">
+<img src="https://user-images.githubusercontent.com/30395764/57516416-e34aaf80-733e-11e9-8c5d-7b948e416632.png" width="500">
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+
+### Follow My Github and Star this repository
