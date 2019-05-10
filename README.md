@@ -11,5 +11,6 @@ My Flutter Exploration
 2. Day 02 - [Plants App](https://github.com/kharisazhar/daily_flutter/tree/master/plants_app)
 3. Day 03 - [Animated Container](https://github.com/kharisazhar/daily_flutter/tree/master/flutter_animate_container)
 4. Day 04 - [Startup Name](https://github.com/kharisazhar/daily_flutter/tree/master/flutter_starup_name)
+5. Day 05 - [Gmail Clone](https://github.com/kharisazhar/daily_flutter/tree/master/gmail_clone)
 
 
